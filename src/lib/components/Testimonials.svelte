@@ -4,66 +4,66 @@
 			<!-- Testimonial 1 -->
 			<div class="bg-[#0f0f0f] p-8 rounded-xl border border-white/5 flex flex-col justify-between h-full">
 				<blockquote class="text-lg text-gray-300 leading-relaxed mb-8">
-					"All of a sudden, a valuation memo that our CFO previously spent almost a week preparing was completed within three or four hours."
+					"Doshi transformed our app from a transaction tool into a destination. Our daily active users tripled, and customer satisfaction scores are at an all-time high."
 				</blockquote>
 				<div>
-					<div class="font-medium text-white text-sm">Chief Sustainability Officer</div>
-					<div class="text-gray-500 text-xs mt-0.5">Leading renewable energy company</div>
+					<div class="font-medium text-white text-sm">Head of Digital Banking</div>
+					<div class="text-gray-500 text-xs mt-0.5">UK Challenger Bank</div>
 				</div>
 			</div>
 
 			<!-- Testimonial 2 -->
 			<div class="bg-[#0f0f0f] p-8 rounded-xl border border-white/5 flex flex-col justify-between h-full">
 				<blockquote class="text-lg text-gray-300 leading-relaxed mb-8">
-					"Sana gives us control over the AI, allowing us to choose the material it accesses and tailor its parameters to our specific needs."
+					"The gamified learning journeys are brilliant. Our members are actually completing financial education modules, and we're seeing measurable improvements in their financial behaviors."
 				</blockquote>
 				<div>
-					<div class="font-medium text-white text-sm">Executive Vice President</div>
-					<div class="text-gray-500 text-xs mt-0.5">Global medical technology provider</div>
+					<div class="font-medium text-white text-sm">Chief Member Experience Officer</div>
+					<div class="text-gray-500 text-xs mt-0.5">Regional Credit Union</div>
 				</div>
 			</div>
 
 			<!-- Testimonial 3 -->
 			<div class="bg-[#0f0f0f] p-8 rounded-xl border border-white/5 flex flex-col justify-between h-full">
 				<blockquote class="text-lg text-gray-300 leading-relaxed mb-8">
-					"With Sana Agents, even colleagues who aren't tech-savvy can leverage AI in their everyday work. It's empowered everyone, not just the experts."
+					"Doshi's AI personalization is remarkable. Every customer gets a learning journey tailored to their financial situation and goals. It's like having a financial advisor for everyone."
 				</blockquote>
 				<div>
-					<div class="font-medium text-white text-sm">Head of Digitalization</div>
-					<div class="text-gray-500 text-xs mt-0.5">Major real estate group</div>
+					<div class="font-medium text-white text-sm">Director of Customer Engagement</div>
+					<div class="text-gray-500 text-xs mt-0.5">European Digital Bank</div>
 				</div>
 			</div>
 
             <!-- Testimonial 4 -->
 			<div class="bg-[#0f0f0f] p-8 rounded-xl border border-white/5 flex flex-col justify-between h-full">
 				<blockquote class="text-lg text-gray-300 leading-relaxed mb-8">
-					"With Sana, our sales prep is now 10x quicker. Instead of spending hours gathering data manually, our team can instantly access the research insights they need—freeing them to focus on designing more meaningful, strategic client conversations."
+					"The pilot results were so strong, we fast-tracked the full rollout. Doshi delivered a 600% ROI in the first year, primarily through improved retention and increased product adoption."
 				</blockquote>
 				<div>
-					<div class="font-medium text-white text-sm">Product Operations Lead</div>
-					<div class="text-gray-500 text-xs mt-0.5">International research and analytics firm</div>
+					<div class="font-medium text-white text-sm">Chief Innovation Officer</div>
+					<div class="text-gray-500 text-xs mt-0.5">Multi-branch Bank</div>
 				</div>
 			</div>
 
             <!-- Testimonial 5 -->
 			<div class="bg-[#0f0f0f] p-8 rounded-xl border border-white/5 flex flex-col justify-between h-full">
 				<blockquote class="text-lg text-gray-300 leading-relaxed mb-8">
-					"We're leveraging our AI agents to find and compare product information, build sales arguments, support R&D, and much more. We see real operational efficiency, and Sana has already provided us with a quick payback."
+					"Integration was seamless. Doshi embedded into our existing app architecture without disrupting our tech stack. Our development team was impressed with how smooth the process was."
 				</blockquote>
 				<div>
-					<div class="font-medium text-white text-sm">CEO</div>
-					<div class="text-gray-500 text-xs mt-0.5">Global industrial automation company</div>
+					<div class="font-medium text-white text-sm">CTO</div>
+					<div class="text-gray-500 text-xs mt-0.5">Fintech Startup</div>
 				</div>
 			</div>
 
             <!-- Testimonial 6 -->
 			<div class="bg-[#0f0f0f] p-8 rounded-xl border border-white/5 flex flex-col justify-between h-full">
 				<blockquote class="text-lg text-gray-300 leading-relaxed mb-8">
-					"With Sana, we're creating assistants to accelerate everything from deal analysis to portfolio reviews, transforming the way our investment teams operate."
+					"Our younger customers love the gamification, and our older customers appreciate the clear, accessible financial education. Doshi works across all demographics."
 				</blockquote>
 				<div>
-					<div class="font-medium text-white text-sm">Chief Digital Officer</div>
-					<div class="text-gray-500 text-xs mt-0.5">Leading private equity firm</div>
+					<div class="font-medium text-white text-sm">VP of Customer Success</div>
+					<div class="text-gray-500 text-xs mt-0.5">Community Bank</div>
 				</div>
 			</div>
 		</div>

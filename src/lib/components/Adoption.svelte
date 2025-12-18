@@ -1,44 +1,44 @@
 <section class="py-24 bg-black text-white text-center">
 	<div class="max-w-[1400px] mx-auto px-6">
 		<h2 class="text-4xl md:text-5xl lg:text-6xl font-serif font-normal mb-6">
-			Driving lasting<br />
-			AI adoption together
+			From pilot to scale<br />
+			with confidence
 		</h2>
 		<p class="text-gray-400 text-lg max-w-2xl mx-auto mb-20">
-			AI is revolutionizing work in real time. Our partnership-led approach helps your organization become truly AI-first.
+			Our proven pilot-to-scale roadmap helps banks overcome integration fears and achieve measurable results quickly.
 		</p>
 
 		<div class="grid grid-cols-1 lg:grid-cols-2 gap-0 border border-white/10 rounded-xl overflow-hidden bg-[#0a0a0a]">
 			<div class="p-12 md:p-20 text-left flex flex-col justify-center border-b lg:border-b-0 lg:border-r border-white/10">
-				<h3 class="text-2xl font-medium mb-8">Enterprise partnership services</h3>
+				<h3 class="text-2xl font-medium mb-8">Bank partnership services</h3>
 				<ul class="space-y-4">
 					<li class="flex items-center gap-3">
-						<div class="w-5 h-5 rounded-full bg-[#a3e635] flex items-center justify-center text-black text-[10px] font-bold">✓</div>
-						<span class="text-gray-300">Dedicated deployment lead</span>
+						<div class="w-5 h-5 rounded-full bg-primary-500 flex items-center justify-center text-white text-[10px] font-bold">✓</div>
+						<span class="text-gray-300">Dedicated integration team</span>
 					</li>
 					<li class="flex items-center gap-3">
-						<div class="w-5 h-5 rounded-full bg-[#a3e635] flex items-center justify-center text-black text-[10px] font-bold">✓</div>
-						<span class="text-gray-300">Complete implementation support</span>
+						<div class="w-5 h-5 rounded-full bg-primary-500 flex items-center justify-center text-white text-[10px] font-bold">✓</div>
+						<span class="text-gray-300">Pilot program management</span>
 					</li>
 					<li class="flex items-center gap-3">
-						<div class="w-5 h-5 rounded-full bg-[#a3e635] flex items-center justify-center text-black text-[10px] font-bold">✓</div>
-						<span class="text-gray-300">Tailored onboarding</span>
+						<div class="w-5 h-5 rounded-full bg-primary-500 flex items-center justify-center text-white text-[10px] font-bold">✓</div>
+						<span class="text-gray-300">Regulatory compliance support</span>
 					</li>
 					<li class="flex items-center gap-3">
-						<div class="w-5 h-5 rounded-full bg-[#a3e635] flex items-center justify-center text-black text-[10px] font-bold">✓</div>
-						<span class="text-gray-300">Priority support</span>
+						<div class="w-5 h-5 rounded-full bg-primary-500 flex items-center justify-center text-white text-[10px] font-bold">✓</div>
+						<span class="text-gray-300">Custom content development</span>
 					</li>
 					<li class="flex items-center gap-3">
-						<div class="w-5 h-5 rounded-full bg-[#a3e635] flex items-center justify-center text-black text-[10px] font-bold">✓</div>
-						<span class="text-gray-300">AI strategy and consulting</span>
+						<div class="w-5 h-5 rounded-full bg-primary-500 flex items-center justify-center text-white text-[10px] font-bold">✓</div>
+						<span class="text-gray-300">Performance analytics & reporting</span>
 					</li>
 					<li class="flex items-center gap-3">
-						<div class="w-5 h-5 rounded-full bg-[#a3e635] flex items-center justify-center text-black text-[10px] font-bold">✓</div>
-						<span class="text-gray-300">Change management model</span>
+						<div class="w-5 h-5 rounded-full bg-primary-500 flex items-center justify-center text-white text-[10px] font-bold">✓</div>
+						<span class="text-gray-300">Ongoing optimization</span>
 					</li>
 					<li class="flex items-center gap-3">
-						<div class="w-5 h-5 rounded-full bg-[#a3e635] flex items-center justify-center text-black text-[10px] font-bold">✓</div>
-						<span class="text-gray-300">Community, events, and resources</span>
+						<div class="w-5 h-5 rounded-full bg-primary-500 flex items-center justify-center text-white text-[10px] font-bold">✓</div>
+						<span class="text-gray-300">24/7 technical support</span>
 					</li>
 				</ul>
 			</div>

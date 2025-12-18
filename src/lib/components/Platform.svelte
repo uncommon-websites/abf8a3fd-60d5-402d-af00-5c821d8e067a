@@ -6,46 +6,61 @@
 	<div class="max-w-[1400px] mx-auto px-6">
 		<div class="text-center mb-20">
 			<h2 class="text-4xl md:text-5xl lg:text-6xl font-serif font-normal mb-6">
-				Your all-in-one<br />
-				AI platform for real work
+				Financial education that<br />
+				customers actually complete
 			</h2>
 			<p class="text-gray-400 text-lg max-w-2xl mx-auto">
-				A seamless, beautiful way to bring AI into your company's apps, knowledge, and culture.
+				AI-native learning journeys embedded directly into your banking app, designed to drive engagement and build lasting customer relationships.
 			</p>
 		</div>
 
 		<!-- Row 1 -->
 		<div class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-6">
-			<!-- Card 1: Automate -->
+			<!-- Card 1: Gamified Learning -->
 			<div class="bg-[#0f0f0f] rounded-xl p-8 border border-white/5 h-[600px] flex flex-col relative overflow-hidden group">
 				<div class="mb-8 relative z-10">
-					<h3 class="text-lg font-semibold mb-1">Automate</h3>
-					<p class="text-gray-400 text-sm">Run complex, multi-step processes</p>
+					<h3 class="text-lg font-semibold mb-1">Gamified Learning</h3>
+					<p class="text-gray-400 text-sm">Turn financial education into an engaging game</p>
 				</div>
                 
                 <!-- Mockup Content -->
                 <div class="flex-1 relative">
                     <div class="absolute inset-0 flex items-center justify-center">
-                         <!-- Abstract representation of workflow -->
-                         <div class="w-full h-full border border-white/5 rounded-lg bg-[#0a0a0a] p-6 relative">
-                             <div class="absolute top-1/2 left-8 -translate-y-1/2 text-gray-500 text-sm font-mono">
-                                 Building your workflow<br/>
-                                 Viewing in canvas >
+                         <!-- Game-like UI -->
+                         <div class="w-full h-full border border-white/5 rounded-lg bg-gradient-to-br from-primary-950/30 to-[#0a0a0a] p-6 relative">
+                             <div class="flex justify-between items-center mb-6">
+                                 <div class="text-xs text-gray-400">Level 3</div>
+                                 <div class="flex gap-2">
+                                     <div class="w-8 h-8 rounded-full bg-primary-500/20 border border-primary-500/40 flex items-center justify-center text-xs">🏆</div>
+                                     <div class="w-8 h-8 rounded-full bg-primary-500/20 border border-primary-500/40 flex items-center justify-center text-xs">⭐</div>
+                                 </div>
                              </div>
-                             <!-- Lines/Nodes -->
-                             <div class="absolute right-12 top-12 bottom-12 w-1/3 border-l border-white/5 dashed"></div>
-                             <div class="absolute right-12 top-1/2 w-8 h-px bg-white/10"></div>
-                             <div class="absolute right-4 top-1/2 w-8 h-8 rounded bg-white/5 border border-white/10"></div>
+                             <div class="space-y-3">
+                                 <div class="bg-white/5 rounded-lg p-4 border border-white/10">
+                                     <div class="text-sm mb-2">Budgeting Basics</div>
+                                     <div class="h-2 bg-white/10 rounded-full overflow-hidden">
+                                         <div class="h-full bg-primary-500 w-3/4"></div>
+                                     </div>
+                                 </div>
+                                 <div class="bg-white/5 rounded-lg p-4 border border-white/10 opacity-60">
+                                     <div class="text-sm mb-2">Saving Strategies</div>
+                                     <div class="h-2 bg-white/10 rounded-full"></div>
+                                 </div>
+                                 <div class="bg-white/5 rounded-lg p-4 border border-white/10 opacity-40">
+                                     <div class="text-sm mb-2">Investment 101</div>
+                                     <div class="h-2 bg-white/10 rounded-full"></div>
+                                 </div>
+                             </div>
                          </div>
                     </div>
                 </div>
 			</div>
 
-			<!-- Card 2: Create -->
+			<!-- Card 2: Personalized Journeys -->
 			<div class="bg-[#0f0f0f] rounded-xl p-8 border border-white/5 h-[600px] flex flex-col relative overflow-hidden group">
 				<div class="mb-8 relative z-10">
-					<h3 class="text-lg font-semibold mb-1">Create</h3>
-					<p class="text-gray-400 text-sm">Generate collaborative content in any format</p>
+					<h3 class="text-lg font-semibold mb-1">Personalized Journeys</h3>
+					<p class="text-gray-400 text-sm">AI adapts content to each customer's needs</p>
 				</div>
                 
                 <!-- Mockup Content -->
@@ -88,93 +103,103 @@
 
         <!-- Row 2 -->
 		<div class="grid grid-cols-1 md:grid-cols-3 gap-6">
-			<!-- Card 3: Analyze -->
+			<!-- Card 3: Progress Tracking -->
 			<div class="bg-[#0f0f0f] rounded-xl p-8 border border-white/5 h-[500px] flex flex-col relative overflow-hidden group">
 				<div class="mb-8 relative z-10">
-					<h3 class="text-lg font-semibold mb-1">Analyze</h3>
-					<p class="text-gray-400 text-sm">Turn data into live dashboards and reports</p>
+					<h3 class="text-lg font-semibold mb-1">Progress Tracking</h3>
+					<p class="text-gray-400 text-sm">Real-time insights into customer learning</p>
 				</div>
                 
-                 <!-- Mockup Content - Code Editor Look -->
-                <div class="flex-1 relative bg-[#0a0a0a] rounded-lg border border-white/5 overflow-hidden p-4 font-mono text-[10px] leading-relaxed text-gray-400 shadow-inner">
-                    <div class="flex gap-1.5 mb-4 border-b border-white/5 pb-2">
-                        <div class="w-2 h-2 rounded-full bg-red-500/50"></div>
-                        <div class="w-2 h-2 rounded-full bg-yellow-500/50"></div>
-                        <div class="w-2 h-2 rounded-full bg-green-500/50"></div>
-                    </div>
-                    <div class="space-y-1">
-                        <div class="text-purple-400">from <span class="text-white">future_import</span> import <span class="text-yellow-300">annotations</span></div>
-                        <div class="text-purple-400">from <span class="text-white">typing</span> import <span class="text-yellow-300">List, Optional</span></div>
-                        <br/>
-                         <div class="text-purple-400">class <span class="text-yellow-300">DataAnalyzer</span>:</div>
-                         <div class="pl-4 text-gray-600">"""Analyzer for processing large datasets"""</div>
-                         <div class="pl-4 text-purple-400">def <span class="text-blue-400">__init__</span>(self, data: List[Any]):</div>
-                         <div class="pl-8 text-white">self.data = data</div>
-                         <div class="pl-8 text-white">self.processed = False</div>
-                         <div class="pl-4 text-purple-400">def <span class="text-blue-400">analyze</span>(self):</div>
-                         <div class="pl-8 text-white">if not self.data:</div>
-                         <div class="pl-12 text-purple-400">return <span class="text-orange-400">None</span></div>
+                 <!-- Mockup Content - Analytics Dashboard -->
+                <div class="flex-1 relative bg-[#0a0a0a] rounded-lg border border-white/5 overflow-hidden p-4">
+                    <div class="space-y-3">
+                        <div class="flex justify-between items-center">
+                            <span class="text-xs text-gray-400">Completion Rate</span>
+                            <span class="text-sm font-bold text-primary-400">78%</span>
+                        </div>
+                        <div class="h-2 bg-white/5 rounded-full overflow-hidden">
+                            <div class="h-full bg-primary-500 w-[78%]"></div>
+                        </div>
+                        
+                        <div class="flex justify-between items-center mt-4">
+                            <span class="text-xs text-gray-400">Active Learners</span>
+                            <span class="text-sm font-bold text-primary-400">12.4K</span>
+                        </div>
+                        <div class="h-2 bg-white/5 rounded-full overflow-hidden">
+                            <div class="h-full bg-primary-500 w-[92%]"></div>
+                        </div>
+                        
+                        <div class="flex justify-between items-center mt-4">
+                            <span class="text-xs text-gray-400">Avg. Session Time</span>
+                            <span class="text-sm font-bold text-primary-400">8.2 min</span>
+                        </div>
+                        <div class="h-2 bg-white/5 rounded-full overflow-hidden">
+                            <div class="h-full bg-primary-500 w-[65%]"></div>
+                        </div>
                     </div>
                 </div>
 			</div>
 
-			<!-- Card 4: Act -->
+			<!-- Card 4: Embedded Integration -->
 			<div class="bg-[#0f0f0f] rounded-xl p-8 border border-white/5 h-[500px] flex flex-col relative overflow-hidden group">
 				<div class="mb-8 relative z-10">
-					<h3 class="text-lg font-semibold mb-1">Act</h3>
-					<p class="text-gray-400 text-sm">Take instant actions across your tools</p>
+					<h3 class="text-lg font-semibold mb-1">Embedded Integration</h3>
+					<p class="text-gray-400 text-sm">Seamlessly fits into your existing app</p>
 				</div>
                 
-                 <!-- Mockup Content - Action Card -->
+                 <!-- Mockup Content - Mobile App Integration -->
                 <div class="flex-1 relative flex items-center justify-center">
-                    <div class="bg-[#1a1a1a] border border-white/10 rounded-xl p-5 w-full shadow-2xl relative">
-                        <!-- Glow effect -->
-                        <div class="absolute -inset-1 bg-gradient-to-r from-blue-500/20 to-purple-500/20 blur opacity-50"></div>
-                        
-                        <div class="relative bg-[#1a1a1a] rounded-xl">
-                            <div class="flex items-center gap-3 mb-4">
-                                <div class="w-8 h-8 rounded bg-white/10 flex items-center justify-center shrink-0">
-                                    <div class="w-4 h-4 bg-white rotate-45"></div>
-                                </div>
-                                <div>
-                                    <div class="font-medium text-xs text-white">Meeting with Vandelay Inc. finished</div>
-                                    <div class="text-[10px] text-gray-500">Update Salesforce after meeting</div>
-                                </div>
+                    <div class="bg-[#1a1a1a] border border-white/10 rounded-2xl p-4 w-48 shadow-2xl relative">
+                        <div class="space-y-3">
+                            <div class="bg-white/5 rounded-lg p-3 border border-white/10">
+                                <div class="text-[10px] text-gray-400 mb-1">Accounts</div>
+                                <div class="text-sm font-bold">£2,450.32</div>
                             </div>
-                            <div class="h-1.5 w-full bg-white/10 rounded-full overflow-hidden">
-                                <div class="h-full bg-blue-500 w-2/3"></div>
+                            <div class="bg-gradient-to-r from-primary-500/20 to-primary-600/20 rounded-lg p-3 border border-primary-500/30">
+                                <div class="flex items-center gap-2 mb-1">
+                                    <div class="text-[10px] text-primary-300">Learn & Earn</div>
+                                    <div class="text-[8px] bg-primary-500 text-white px-1.5 py-0.5 rounded-full">NEW</div>
+                                </div>
+                                <div class="text-xs text-white">Complete lessons, earn rewards</div>
+                            </div>
+                            <div class="bg-white/5 rounded-lg p-3 border border-white/10">
+                                <div class="text-[10px] text-gray-400">Payments</div>
                             </div>
                         </div>
                     </div>
                 </div>
 			</div>
 
-            <!-- Card 5: Find -->
+            <!-- Card 5: Rewards & Incentives -->
 			<div class="bg-[#0f0f0f] rounded-xl p-8 border border-white/5 h-[500px] flex flex-col relative overflow-hidden group">
 				<div class="mb-8 relative z-10">
-					<h3 class="text-lg font-semibold mb-1">Find</h3>
-					<p class="text-gray-400 text-sm">All the latest company docs and data</p>
+					<h3 class="text-lg font-semibold mb-1">Rewards & Incentives</h3>
+					<p class="text-gray-400 text-sm">Drive completion with meaningful rewards</p>
 				</div>
                 
-                 <!-- Mockup Content - Search/Result -->
-                <div class="flex-1 relative flex flex-col gap-4">
-                    <div class="bg-[#1a1a1a] rounded-lg p-4 text-xs text-gray-300 border border-white/5">
-                        Sure thing! Here's an overview I've made for you.
+                 <!-- Mockup Content - Rewards -->
+                <div class="flex-1 relative flex flex-col gap-3">
+                    <div class="bg-gradient-to-br from-primary-500/10 to-[#1a1a1a] rounded-lg p-4 border border-primary-500/20">
+                        <div class="flex items-center gap-3 mb-2">
+                            <div class="w-10 h-10 rounded-full bg-primary-500/20 flex items-center justify-center text-lg">🎯</div>
+                            <div>
+                                <div class="text-xs font-semibold">Savings Challenge</div>
+                                <div class="text-[10px] text-gray-400">Complete to earn £5</div>
+                            </div>
+                        </div>
+                        <div class="h-1.5 bg-white/10 rounded-full overflow-hidden">
+                            <div class="h-full bg-primary-500 w-1/2"></div>
+                        </div>
                     </div>
                     
-                    <div class="flex-1 bg-gradient-to-br from-[#1a1a1a] to-black border border-white/10 rounded-lg overflow-hidden flex flex-col">
-                         <div class="relative h-32 bg-gradient-to-r from-purple-500/20 to-blue-500/20 flex items-center justify-center">
-                             <div class="text-center">
-                                 <div class="text-xs font-semibold text-white">Personalized course</div>
-                                 <div class="text-[10px] text-gray-400">8 cards</div>
-                             </div>
-                         </div>
-                         <div class="p-4 flex items-center justify-between mt-auto">
-                             <div class="text-[10px] text-gray-500">Updated 2m ago</div>
-                             <button class="bg-white text-black text-[10px] font-bold px-3 py-1.5 rounded-full flex items-center gap-1 hover:bg-gray-200 transition-colors">
-                                 <Play size={10} fill="currentColor" /> Play
-                             </button>
-                         </div>
+                    <div class="bg-[#1a1a1a] rounded-lg p-4 border border-white/10">
+                        <div class="flex items-center gap-3">
+                            <div class="w-10 h-10 rounded-full bg-white/5 flex items-center justify-center text-lg">🏆</div>
+                            <div>
+                                <div class="text-xs font-semibold">Budget Master</div>
+                                <div class="text-[10px] text-gray-400">Unlock at Level 5</div>
+                            </div>
+                        </div>
                     </div>
                 </div>
 			</div>

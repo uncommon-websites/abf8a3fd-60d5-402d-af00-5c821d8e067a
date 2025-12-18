@@ -7,38 +7,38 @@
 		<div class="grid grid-cols-1 lg:grid-cols-2 gap-20 items-center">
 			<div>
 				<h2 class="text-4xl md:text-5xl lg:text-6xl font-serif font-normal mb-12 leading-tight">
-					Every team gets smarter<br />
-					with Sana
+					Built for banks<br />
+					and credit unions
 				</h2>
 
 				<div class="space-y-6">
-					<div class="flex items-center gap-3 text-red-400 font-medium">
-						<div class="w-2 h-2 bg-red-400 rounded-sm"></div>
-						Sales teams
+					<div class="flex items-center gap-3 text-primary-400 font-medium">
+						<div class="w-2 h-2 bg-primary-400 rounded-sm"></div>
+						Retail Banks
 					</div>
 					<p class="text-gray-400 text-sm leading-relaxed pl-5 border-l border-white/10 ml-1 mb-8">
-						Optimize every stage of the deal lifecycle with AI that helps you prep for calls, answers your RFPs, and updates your CRM.
+						Boost customer engagement and retention with personalized financial education that drives product adoption and lifetime value.
 					</p>
 
 					<div class="flex items-center gap-3 text-gray-500 hover:text-white transition-colors cursor-pointer">
 						<div class="w-2 h-2 bg-gray-500 rounded-sm"></div>
-						Customer support
+						Credit Unions
 					</div>
 					<div class="flex items-center gap-3 text-gray-500 hover:text-white transition-colors cursor-pointer">
 						<div class="w-2 h-2 bg-gray-500 rounded-sm"></div>
-						In-house operations
+						Challenger Banks
 					</div>
 					<div class="flex items-center gap-3 text-gray-500 hover:text-white transition-colors cursor-pointer">
 						<div class="w-2 h-2 bg-gray-500 rounded-sm"></div>
-						Financial services
+						Digital Banks
 					</div>
 					<div class="flex items-center gap-3 text-gray-500 hover:text-white transition-colors cursor-pointer">
 						<div class="w-2 h-2 bg-gray-500 rounded-sm"></div>
-						Industrial companies
+						Community Banks
 					</div>
 					<div class="flex items-center gap-3 text-gray-500 hover:text-white transition-colors cursor-pointer">
 						<div class="w-2 h-2 bg-gray-500 rounded-sm"></div>
-						Law firms
+						Building Societies
 					</div>
 				</div>
 			</div>
